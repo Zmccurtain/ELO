@@ -12,3 +12,12 @@ def oRoster():
         i,j = line.split(":")
         roster[i] = float(j.split("\n")[0])
     return roster
+
+def Reset():
+    x = open("Default.txt", "r")
+    lines = x.readlines()
+    roster = {}
+    for line in lines:
+        i,j = line.split(":")
+        roster[i] = float(j.split("\n")[0])
+    Edit(roster)
