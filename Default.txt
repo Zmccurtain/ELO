@@ -6,7 +6,7 @@ chibikitty:800
 ColinJH:1000
 CyborgSteve:1600
 Daniel:1700
-GentileBanan:800
+GentileBanan:900
 Imperialpayload:800
 Inugami:1300
 Ksiu:2300
@@ -17,7 +17,6 @@ Kevalon:1400
 eledessil:1400
 maxorri:400
 Kreinash:1200
-GentileBanan:900
 Nraddlygew:1000
 Azaki:1200
 D3F3CTIVE:1300
