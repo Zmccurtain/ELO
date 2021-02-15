@@ -1,3 +1,3 @@
 ELO(Won = ["Kevalon","eledessil", "Kreinash","Inugami","GentileBanan"], Lost = ["D3F3CTIVE","CyborgSteve","chibikitty","Azaki","maxorri"], first = True)
 ELO(Won = ["D3F3CTIVE","Kevalon","CyborgSteve","maxorri","GentileBanan"],Lost = ["Inugami","eledessil","chibikitty","Azaki","Kreinash"])
-ELO(Won = ["Azaki", "CyborgSteve", "D3F3CTIVE", "Inugami", "GentileBanan"], Lost = ["Kevalon", "10slayer", "Kreinash", "AmericanHussar", "chibikitty"], first = True)
+ELO(Won = ["Azaki", "CyborgSteve", "D3F3CTIVE", "Inugami", "GentileBanan"], Lost = ["Kevalon", "10slayer", "Kreinash", "AmericanHussar", "chibikitty"])
