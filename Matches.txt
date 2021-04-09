@@ -1,3 +1,4 @@
+Roster.Reset()
 ELO(Won = ["Kevalon","eledessil", "Kreinash","Inugami","GentileBanan"], Lost = ["D3F3CTIVE","CyborgSteve","chibikitty","Azaki","maxorri"], first = True)
 ELO(Won = ["D3F3CTIVE","Kevalon","CyborgSteve","maxorri","GentileBanan"],Lost = ["Inugami","eledessil","chibikitty","Azaki","Kreinash"])
 ELO(Won = ["Azaki", "CyborgSteve", "D3F3CTIVE", "Inugami", "GentileBanan"], Lost = ["Kevalon", "10slayer", "Kreinash", "AmericanHussar", "chibikitty"])
@@ -7,4 +8,16 @@ ELO(Won = ["Inugami", "chibikitty", "GentileBanan", "Kreinash", "Azaki"], Lost =
 ELO(Won = ["D3F3CTIVE","ColinJH","AmericanHussar","chibikitty","Inugami"],Lost = ["10slayer","maxorri","Spaz","GentileBanan","Kreinash"])
 
 ELO(Won = ["PhantasticTigers","YourLocalThiccBoi","Kreinash","Star Rise","Xlerate"],Lost = ["Kevalon","ColinJH","GentileBanan","CyborgSteve","chibikitty"], first = True)
-ELO(Won = ["Kevalon","YourLocalThiccBoi","Kreinash","CyborgSteve","GentileBanan"],Lost = ["QuadNut420","Xlerate","D3F3CTIVE","Star Rise","chibikitty"], first = True)
+ELO(Won = ["Kevalon","YourLocalThiccBoi","Kreinash","CyborgSteve","GentileBanan"],Lost = ["QuadNut420","Xlerate","D3F3CTIVE","Star Rise","chibikitty"])
+
+ELO(Won = ["ColinJH","CyborgSteve","Kreinash","Inugami","xerelic"],Lost = ["Kevalon","DaFearlessCookie","HunterSquared","10slayer","Wilmeister"], first = True)
+ELO(Won = ["Kevalon","CyborgSteve","HunterSquared","Azaki","Kreinash"],Lost = ["ColinJH","DaFearlessCookie","xerelic","10slayer","Wilmeister"])
+
+ELO(Won = ["ColinJH","CyborgSteve","Spaz","Wilmeister","xerelic"],Lost = ["GentileBanan","YourLocalThiccBoi","RockTank10","10slayer","Inugami"], first = True)
+ELO(Won = ["GentileBanan","xerelic","Kreinash","Inugami","Wilmeister"],Lost = ["CyborgSteve","Spaz","YourLocalThiccBoi","HunterSquared","ColinJH"])
+
+ELO(Won = ["Inugami","HunterSquared","Kreinash","Wilmeister","chibikitty"],Lost = ["oink oink","Spaz","RockTank10","AmericanHussar","ColinJH"])
+ELO(Won = ["Inugami","oink oink","Kreinash","RockTank10","chibikitty"],Lost = ["ColinJH","AmericanHussar","Wilmeister","HunterSquared","Idiotinc"])
+
+ELO(Won = ["Inugami","HunterSquared","D3F3CTIVE","Second Shot","YourLocalThiccBoi"],Lost = ["Kevalon","Wilmeister","10slayer","CyborgSteve","GentileBanan"])
+ELO(Won = ["Kevalon","CyborgSteve","YourLocalThiccBoi","Inugami","D3F3CTIVE"],Lost = ["ColinJH","Wilmeister","10slayer","HunterSquared","Second Shot"])

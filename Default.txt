@@ -1,15 +1,11 @@
 10slayer:1300
-aijinxed:900
 AmericanHussar:1200
-Cade:1300
 chibikitty:800
 ColinJH:1000
 CyborgSteve:1600
-Daniel:1700
 GentileBanan:900
 Imperialpayload:800
 Inugami:1300
-Ksiu:2300
 SexiMexi247:1400
 Trick Live:1400
 Xerelic:1400
@@ -17,7 +13,7 @@ Kevalon:1400
 eledessil:1400
 maxorri:400
 Kreinash:1200
-Nraddlygew:1000
+Ksiu:2300
 Azaki:1200
 D3F3CTIVE:1300
 Spaz:500
@@ -26,3 +22,8 @@ PhantasticTigers:800
 Star Rise:1400
 Xlerate:1200
 QuadNut420:600
+Wilmeister:400
+Second Shot:1700
+HunterSquared:1200
+Second Shot:1700
+oink oink:1300
