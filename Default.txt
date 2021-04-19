@@ -1,29 +1,28 @@
-10slayer:1300
-AmericanHussar:1200
-chibikitty:800
-ColinJH:1000
-CyborgSteve:1600
-GentileBanan:900
-Imperialpayload:800
-Inugami:1300
-SexiMexi247:1400
-Trick Live:1400
-Xerelic:1400
-Kevalon:1400
-eledessil:1400
-maxorri:400
-Kreinash:1200
-Ksiu:2300
-Azaki:1200
-D3F3CTIVE:1300
-Spaz:500
-YourLocalThiccBoi:500
-PhantasticTigers:800
-Star Rise:1400
-Xlerate:1200
-QuadNut420:600
-Wilmeister:400
-Second Shot:1700
-HunterSquared:1200
-Second Shot:1700
-oink oink:1300
+10slayer:1300:[2,0,1,3,4]
+AmericanHussar:1200:[4,0,3,2,1]
+chibikitty:800:[4,2,0,3,1]
+ColinJH:1000:[0,4,2,1,3]
+CyborgSteve:1600:[1,3,4,0,2]
+GentileBanan:900:[0,2,4,1,3]
+Imperialpayload:800:[2,1,0,4,3]
+Inugami:1300:[3,4,0,2,1]
+Trick Live:1400:[3,4,0,2,1]
+Xerelic:1400:[2,1,4,0,3]
+Kevalon:1400:[0,1,2,4,3]
+eledessil:1400:[0,2,4,3,1]
+maxorri:400:[4,1,3,0,2]
+Kreinash:1200:[2,4,0,3,1]
+Ksiu:2300:[0,1,2,3,4]
+Azaki:1200:[1,3,4,0,2]
+D3F3CTIVE:1300:[2,3,0,4,1]
+Spaz:500:[0,2,1,3,4]
+YourLocalThiccBoi:500:[2,1,3,0,4]
+PhantasticTigers:800:[0,2,1,4,3]
+Star Rise:1400:[3,4,0,2,1]
+Xlerate:1200:[4,1,0,2,3]
+QuadNut420:600:[0,3,2,4,1]
+Wilmeister:400:[4,1,3,2,0]
+Second Shot:1700:[3,4,2,1,0]
+HunterSquared:1200:[2,3,4,1,0]
+oink oink:1300:[2,4,0,3,1]
+RockTank10:2200:[4,1,3,0,2]
