@@ -2,6 +2,7 @@
 #massively to the point where it is basically new code.
 import re
 
+
 def Edit(target, new):
     if target == "c":
         x = open("Current.txt", "w")

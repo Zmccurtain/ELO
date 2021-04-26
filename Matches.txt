@@ -3,21 +3,28 @@ ELO(Won = ["Kevalon","eledessil", "Kreinash","Inugami","GentileBanan"], Lost = [
 ELO(Won = ["D3F3CTIVE","Kevalon","CyborgSteve","maxorri","GentileBanan"],Lost = ["Inugami","eledessil","chibikitty","Azaki","Kreinash"])
 ELO(Won = ["Azaki", "CyborgSteve", "D3F3CTIVE", "Inugami", "GentileBanan"], Lost = ["Kevalon", "10slayer", "Kreinash", "AmericanHussar", "chibikitty"])
 
-ELO(Won = ["Inugami","chibikitty","Xerelic","Kreinash","10slayer"],Lost = ["Spaz","maxorri","YourLocalThiccBoi","Azaki","GentileBanan"])
-ELO(Won = ["Inugami", "chibikitty", "GentileBanan", "Kreinash", "Azaki"], Lost = ["10slayer", "maxorri", "YourLocalThiccBoi", "ColinJH", "Spaz"])
-ELO(Won = ["D3F3CTIVE","ColinJH","AmericanHussar","chibikitty","Inugami"],Lost = ["10slayer","maxorri","Spaz","GentileBanan","Kreinash"])
+ELO(Won = ["Inugami","chibikitty","xerelic","Kreinash","10slayer"],Lost = ["Spaz","maxorri","youtubepoop234","Azaki","GentileBanan"])
+ELO(Won = ["Inugami", "chibikitty", "GentileBanan", "Kreinash", "Azaki"], Lost = ["10slayer", "maxorri", "youtubepoop234", "Coliflower", "Spaz"])
+ELO(Won = ["D3F3CTIVE","Coliflower","AmericanHussar","chibikitty","Inugami"],Lost = ["10slayer","maxorri","Spaz","GentileBanan","Kreinash"])
 
-ELO(Won = ["PhantasticTigers","YourLocalThiccBoi","Kreinash","Star Rise","Xlerate"],Lost = ["Kevalon","ColinJH","GentileBanan","CyborgSteve","chibikitty"], first = True)
-ELO(Won = ["Kevalon","YourLocalThiccBoi","Kreinash","CyborgSteve","GentileBanan"],Lost = ["QuadNut420","Xlerate","D3F3CTIVE","Star Rise","chibikitty"])
+ELO(Won = ["PhantasticTigers","youtubepoop234","Kreinash","Star Rise","Xlerate"],Lost = ["Kevalon","Coliflower","GentileBanan","CyborgSteve","chibikitty"], first = True)
+ELO(Won = ["Kevalon","youtubepoop234","Kreinash","CyborgSteve","GentileBanan"],Lost = ["QuadNut420","Xlerate","D3F3CTIVE","Star Rise","chibikitty"])
 
-ELO(Won = ["ColinJH","CyborgSteve","Kreinash","Inugami","Xerelic"],Lost = ["Kevalon","DaFearlessCookie","HunterSquared","10slayer","Wilmeister"], first = True)
-ELO(Won = ["Kevalon","CyborgSteve","HunterSquared","Azaki","Kreinash"],Lost = ["ColinJH","DaFearlessCookie","Xerelic","10slayer","Wilmeister"])
+ELO(Won = ["Coliflower","CyborgSteve","Kreinash","Inugami","xerelic"],Lost = ["Kevalon","DaFearlessCookie","HunterSquared","10slayer","Wilmeister"], first = True)
+ELO(Won = ["Kevalon","CyborgSteve","HunterSquared","Azaki","Kreinash"],Lost = ["Coliflower","DaFearlessCookie","xerelic","10slayer","Wilmeister"])
 
-ELO(Won = ["ColinJH","CyborgSteve","Spaz","Wilmeister","Xerelic"],Lost = ["GentileBanan","YourLocalThiccBoi","RockTank10","10slayer","Inugami"], first = True)
-ELO(Won = ["GentileBanan","Xerelic","Kreinash","Inugami","Wilmeister"],Lost = ["CyborgSteve","Spaz","YourLocalThiccBoi","HunterSquared","ColinJH"])
+ELO(Won = ["Coliflower","CyborgSteve","Spaz","Wilmeister","xerelic"],Lost = ["GentileBanan","youtubepoop234","Rocktank10","10slayer","Inugami"], first = True)
+ELO(Won = ["GentileBanan","xerelic","Kreinash","Inugami","Wilmeister"],Lost = ["CyborgSteve","Spaz","youtubepoop234","HunterSquared","Coliflower"])
 
-ELO(Won = ["Inugami","HunterSquared","Kreinash","Wilmeister","chibikitty"],Lost = ["oink oink","Spaz","RockTank10","AmericanHussar","ColinJH"])
-ELO(Won = ["Inugami","oink oink","Kreinash","RockTank10","chibikitty"],Lost = ["ColinJH","AmericanHussar","Wilmeister","HunterSquared","Idiotinc"])
+ELO(Won = ["Inugami","HunterSquared","Kreinash","Wilmeister","chibikitty"],Lost = ["oink oink","Spaz","Rocktank10","AmericanHussar","Coliflower"])
+ELO(Won = ["Inugami","oink oink","Kreinash","Rocktank10","chibikitty"],Lost = ["Coliflower","AmericanHussar","Wilmeister","HunterSquared","Idiotinc"])
 
-ELO(Won = ["Inugami","HunterSquared","D3F3CTIVE","Second Shot","YourLocalThiccBoi"],Lost = ["Kevalon","Wilmeister","10slayer","CyborgSteve","GentileBanan"])
-ELO(Won = ["Kevalon","CyborgSteve","YourLocalThiccBoi","Inugami","D3F3CTIVE"],Lost = ["ColinJH","Wilmeister","10slayer","HunterSquared","Second Shot"])
+ELO(Won = ["Inugami","HunterSquared","D3F3CTIVE","Second Shot","youtubepoop234"],Lost = ["Kevalon","Wilmeister","10slayer","CyborgSteve","GentileBanan"])
+ELO(Won = ["Kevalon","CyborgSteve","youtubepoop234","Inugami","D3F3CTIVE"],Lost = ["Coliflower","Wilmeister","10slayer","HunterSquared","Second Shot"])
+
+ELO(Won = ['youtubepoop234', 'xerelic', 'Rocktank10', 'GentileBanan', 'HunterSquared'], Lost = ['AmericanHussar', 'CyborgSteve', 'Kreinash', 'Inugami', 'Wilmeister'], first = True)
+ELO(Won = ['GentileBanan', 'CyborgSteve', 'HunterSquared', 'Rocktank10', 'xerelic'], Lost = ['D3F3CTIVE', 'AmericanHussar', 'Inugami', 'Wilmeister', 'youtubepoop234'])
+
+ELO(Won = ['GentileBanan', 'CyborgSteve', 'HunterSquared', 'Inugami', 'AmericanHussar'], Lost = ['D3F3CTIVE', 'Kevalon', 'Coliflower', '10slayer', 'Azaki'])
+ELO(Won = ['CyborgSteve', 'Coliflower', 'xerelic', 'AmericanHussar'], Lost = ['Kevalon', 'HunterSquared', 'GentileBanan'], first = False)
+
