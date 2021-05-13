@@ -83,4 +83,4 @@ def newSize(size):
     return (size[0]*2, size[1]*2)
 
 if __name__ == "__main__":
-    MatchData("Matches/1.png", True)
+    MatchData("Matches/4.png", True)

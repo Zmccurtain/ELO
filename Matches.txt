@@ -26,5 +26,6 @@ ELO(Won = ['youtubepoop234', 'xerelic', 'Rocktank10', 'GentileBanan', 'HunterSqu
 ELO(Won = ['GentileBanan', 'CyborgSteve', 'HunterSquared', 'Rocktank10', 'xerelic'], Lost = ['D3F3CTIVE', 'AmericanHussar', 'Inugami', 'Wilmeister', 'youtubepoop234'])
 
 ELO(Won = ['GentileBanan', 'CyborgSteve', 'HunterSquared', 'Inugami', 'AmericanHussar'], Lost = ['D3F3CTIVE', 'Kevalon', 'Coliflower', '10slayer', 'Azaki'])
-ELO(Won = ['CyborgSteve', 'Coliflower', 'xerelic', 'AmericanHussar'], Lost = ['Kevalon', 'HunterSquared', 'GentileBanan'], first = False)
+ELO(Won = ['CyborgSteve', 'Coliflower', 'xerelic', 'AmericanHussar', 'Second Shot'], Lost = ['Kevalon', 'HunterSquared', 'GentileBanan', 'Azaki', 'Spaz'])
 
+ELO(Won = ['chibikitty', 'HunterSquared', 'Trick Live', 'Inugami', 'Rocktank10'], Lost = ['CyborgSteve', 'GentileBanan', 'xerelic', 'Kreinash', 'Wilmeister'])
