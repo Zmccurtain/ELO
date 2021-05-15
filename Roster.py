@@ -1,5 +1,3 @@
-#Some of this code existed previously, but has been overhauled 
-#massively to the point where it is basically new code.
 import re
 
 
